@@ -1,4 +1,4 @@
-module ggithub.com/joostvdg/gommap
+module github.com/joostvdg/gommap
 
 go 1.17
 
